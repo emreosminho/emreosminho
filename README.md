@@ -4,5 +4,5 @@
 👨‍💻 I am a Computer Engineer  
 🌱 I’m currently learning Html, Css and JavaScript  
 🔭 I’m currently working on creating demo website.  
-📩 You can reach me via LinkedIn/ "Emre Osman Çanakçı"  
+📩 You can reach me via linkedin.com/in/emreosman  
 
